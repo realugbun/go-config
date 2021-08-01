@@ -1,0 +1,4 @@
+foo: filefoo
+bar: filebar
+# With filebaz commented out, the default will be loaded
+# baz: filebaz
